@@ -1,0 +1,51 @@
+[
+    {
+        "id"  : 1,
+      "image" : "https://lastfm.freetls.fastly.net/i/u/770x0/f66d650a32be1d539226994d518cdb43.jpg#f66d650a32be1d539226994d518cdb43",
+      "name"  : "Armaan Malik",
+      "pro"   : "Artist"
+    },
+
+    {
+        "id"  : 2,
+        "image" : "https://img.mensxp.com/media/content/2021/Aug/1_611284aae2a29.jpeg",
+        "name"  : "Badshah",
+        "pro"   : "Artist" 
+    },
+
+    {
+        "id"  : 3,
+        "image" : "https://www.billboard.com/wp-content/uploads/2023/01/Sam-Smith-press-credit-Michael-Bailey-Gates-2023-billboard-1-1548.jpg?w=942&h=623&crop=1&resize=942%2C623",
+        "name"  : "Sam Smith",
+        "pro"   : "Artist" 
+    },
+
+    {
+        "id"  : 2,
+        "image" : "https://img.mensxp.com/media/content/2021/Aug/1_611284aae2a29.jpeg",
+        "name"  : "Badshah",
+        "pro"   : "Artist" 
+    },
+
+    {
+        "id"  : 2,
+        "image" : "https://img.mensxp.com/media/content/2021/Aug/1_611284aae2a29.jpeg",
+        "name"  : "Badshah",
+        "pro"   : "Artist" 
+    },
+
+    {
+        "id"  : 2,
+        "image" : "https://img.mensxp.com/media/content/2021/Aug/1_611284aae2a29.jpeg",
+        "name"  : "Badshah",
+        "pro"   : "Artist" 
+    },
+
+    {
+        "id"  : 2,
+        "image" : "https://img.mensxp.com/media/content/2021/Aug/1_611284aae2a29.jpeg",
+        "name"  : "Badshah",
+        "pro"   : "Artist" 
+    }
+
+]
